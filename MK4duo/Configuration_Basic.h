@@ -219,7 +219,7 @@
  * MECH_MUVE3D          - Muve 3D with serial projector                *
  *                                                                     *
  ***********************************************************************/
-#define MECHANISM MECH_CARTESIAN
+#define MECHANISM MECH_COREXY
 /***********************************************************************/
 
 
